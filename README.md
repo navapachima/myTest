@@ -1,3 +1,4 @@
+# שלום וברכה
 # QA Automation Classwork
 
 This repository contains coursework, exercises, and practice projects
